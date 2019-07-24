@@ -2,8 +2,6 @@
 
 ブラウザで動作するシンプルな Songle Sync アプリケーション例です  
 
-![Songle Sync Browser](ss.png "Songle Sync Browser")
-
 ## Songle Sync のサイト上で Token を発行
 
 初めての方は新規登録が必要です  
